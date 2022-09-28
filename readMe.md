@@ -34,7 +34,7 @@ THEN the saved events persist
 
 
 ## Mock-Up
-Screenshot.jpg
+![Screenshot](https://user-images.githubusercontent.com/107980867/192751142-2b213f95-7fc0-4f45-b18b-f63f44067b40.jpg)
 
 ## Link To Deployed Application
 https://cmempalmado.github.io/05-Challenge-Work-Day-Scheduler/
