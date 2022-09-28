@@ -34,9 +34,10 @@ THEN the saved events persist
 
 
 ## Mock-Up
-
+Screenshot.jpg
 
 ## Link To Deployed Application
+https://cmempalmado.github.io/05-Challenge-Work-Day-Scheduler/
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
